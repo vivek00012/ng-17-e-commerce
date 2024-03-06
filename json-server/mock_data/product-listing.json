@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "description": "A powerful smartphone with advanced features.",
+        "price": 599.99,
+        "availability": true,
+        "imgsrc": "https://example.com/smartphone.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "category": "Electronics",
+        "description": "A high-performance laptop for work and entertainment.",
+        "price": 1299.99,
+        "availability": true,
+        "imgsrc": "https://example.com/laptop.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Headphones",
+        "category": "Electronics",
+        "description": "Premium quality headphones for immersive audio experience.",
+        "price": 199.99,
+        "availability": true,
+        "imgsrc": "https://example.com/headphones.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "description": "Stay connected and track your fitness with this smartwatch.",
+        "price": 149.99,
+        "availability": true,
+        "imgsrc": "https://example.com/smartwatch.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Running Shoes",
+        "category": "Sports",
+        "description": "Comfortable and durable shoes for running enthusiasts.",
+        "price": 79.99,
+        "availability": true,
+        "imgsrc": "https://example.com/runningshoes.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Yoga Mat",
+        "category": "Sports",
+        "description": "A non-slip yoga mat for yoga and exercise routines.",
+        "price": 29.99,
+        "availability": true,
+        "imgsrc": "https://example.com/yogamat.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Dumbbell Set",
+        "category": "Sports",
+        "description": "Adjustable dumbbells for strength training at home.",
+        "price": 149.99,
+        "availability": true,
+        "imgsrc": "https://example.com/dumbbellset.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Gaming Console",
+        "category": "Electronics",
+        "description": "Experience the latest gaming technology with this console.",
+        "price": 399.99,
+        "availability": true,
+        "imgsrc": "https://example.com/gamingconsole.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "description": "Enjoy music on the go with these wireless earbuds.",
+        "price": 99.99,
+        "availability": true,
+        "imgsrc": "https://example.com/wirelessearbuds.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Digital Camera",
+        "category": "Electronics",
+        "description": "Capture memories with stunning clarity using this camera.",
+        "price": 499.99,
+        "availability": true,
+        "imgsrc": "https://example.com/digitalcamera.jpg"
+      }
+    ]
+  }
+  

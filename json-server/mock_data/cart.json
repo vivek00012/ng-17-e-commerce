@@ -1,0 +1,19 @@
+{
+    "cartItems": [
+      {
+        "id": "1",
+        "productId": "1",
+        "productName": "Smartphone",
+        "quantity": 2,
+        "price": 599.99
+      },
+      {
+        "id": "2",
+        "productId": "3",
+        "productName": "Headphones",
+        "quantity": 1,
+        "price": 199.99
+      }
+    ]
+  }
+  
